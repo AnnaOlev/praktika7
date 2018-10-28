@@ -23,7 +23,7 @@ public class Main {
         while (count < 106 ) {
 
             count++;
-
+            //вывод для визуализации процесса игры
             System.out.println(Arrays.toString(gamer1.toArray()));
             System.out.println(Arrays.toString(gamer2.toArray()));
             System.out.println();
